@@ -1,4 +1,3 @@
-```bat
 @echo off
 title Network Packet Analyzer
 cd /d "%~dp0"
@@ -18,4 +17,3 @@ if errorlevel 1 (
     echo Check the error message above.
     pause
 )
-```
